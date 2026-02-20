@@ -1,0 +1,26 @@
+<svg width="128" height="128" viewBox="0 0 128 128"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Glow -->
+  <circle cx="64" cy="64" r="50" fill="yellow" fill-opacity="0.25"/>
+
+  <!-- Axes -->
+  <!-- X axis (red) -->
+  <line x1="64" y1="64" x2="110" y2="64"
+        stroke="red" stroke-width="6" stroke-linecap="round"/>
+  <text x="115" y="68" font-size="18" fill="red" font-family="Arial">X</text>
+
+  <!-- Y axis (green) -->
+  <line x1="64" y1="64" x2="64" y2="18"
+        stroke="green" stroke-width="6" stroke-linecap="round"/>
+  <text x="60" y="14" font-size="18" fill="green" font-family="Arial">Y</text>
+
+  <!-- Z axis (blue, diagonal) -->
+  <line x1="64" y1="64" x2="30" y2="98"
+        stroke="blue" stroke-width="6" stroke-linecap="round"/>
+  <text x="20" y="108" font-size="18" fill="blue" font-family="Arial">Z</text>
+
+  <!-- Center point -->
+  <circle cx="64" cy="64" r="6" fill="black"/>
+
+</svg>
