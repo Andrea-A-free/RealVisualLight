@@ -1,0 +1,26 @@
+<package>
+    <name>RealVisualLight</name>
+    <version>1.0.0</version>
+
+    <description>
+        RealVisualLight è un motore di visualizzazione ottimizzato per FreeCAD. 
+        Migliora fluidità, chiarezza e reattività della vista 3D applicando 
+        automaticamente impostazioni grafiche leggere e personalizzabili. 
+        Il progetto è completamente gratuito e rimarrà sempre libero e open-source.
+    </description>
+
+    <description lang="en">
+        RealVisualLight is an optimized visualization engine for FreeCAD. 
+        It improves the smoothness, clarity, and responsiveness of the 3D view 
+        by automatically applying lightweight and customizable display settings. 
+        The project is fully free and will always remain open-source.
+    </description>
+
+    <maintainer email="andrea@example.com">Andrea Andena</maintainer>
+
+    <license>MIT</license>
+
+    <url type="repository">https://github.com/AndreaAndena/RealVisualLight</url>
+
+    <freecad min_version="0.21" />
+</package>
