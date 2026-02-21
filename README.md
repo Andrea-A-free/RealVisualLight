@@ -1,4 +1,4 @@
-Version: 1.01 – Auto Complexity Detection
+**Version: 1.01 – Auto Complexity Detection + Visual Optimization Improvements**
 
 # RealVisualLight
 
