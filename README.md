@@ -1,6 +1,11 @@
-**Version: 1.01 – Auto Complexity Detection + Visual Optimization Improvements**
-
 # RealVisualLight
+**Version: 1.01 – Auto Complexity Detection + Visual Optimization Improvements**
+![Version](https://img.shields.io/badge/Version-1.01-blue.svg)
+![Free for all users](https://img.shields.io/badge/Free%20for%20all%20users-Yes-brightgreen.svg)
+![Ethical Open Source](https://img.shields.io/badge/Ethical-Open%20Source-orange.svg)
+![Optimized for FreeCAD](https://img.shields.io/badge/Optimized%20for-FreeCAD-lightgrey.svg)
+![Auto Complexity Detection](https://img.shields.io/badge/Feature-Auto%20Complexity%20Detection-yellow.svg)
+
 
 RealVisualLight is a visual optimization engine for FreeCAD designed to improve 3D viewport smoothness, responsiveness, and clarity.  
 The addon automatically analyzes the complexity of the active model and applies optimized visual settings without requiring user interaction.
