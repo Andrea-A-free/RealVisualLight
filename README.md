@@ -1,3 +1,5 @@
+Version: 1.01 – Auto Complexity Detection
+
 # RealVisualLight
 
 RealVisualLight is a visual optimization engine for FreeCAD designed to improve 3D viewport smoothness, responsiveness, and clarity.  
